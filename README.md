@@ -1,5 +1,9 @@
 ### Trabalho 2
 
+### Rodar
+
+    mvn exec:java
+
 ### Valor: 5
 ### Deadline 10/12/2024
 O objetivo é desenvolver o Google Keep Tabajara
